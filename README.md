@@ -20,6 +20,8 @@ Tamaño proyecto: 159KB
 
 Fecha : 14/05/2025
 
+Medios:
+https://luciacardonatorrecillas05.github.io/LuciaCardonaTorrecillas.github.io-/
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
