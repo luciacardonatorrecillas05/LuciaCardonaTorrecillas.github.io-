@@ -4,32 +4,22 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : MINI JUEGOS 
 
-Web: (url github.io)
+Web: https://luciacardonatorrecillas05.github.io/LuciaCardonaTorrecillas.github.io-/
 
 Autor: Lucía Cardona Torredcillas 
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto consta de tres mini juegos en los cuales pueden jugar dos individuos, estos tres juegos constan de una serie de laberintos que van subierndo la dificultad conforme vas avanzando de nivel.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
-
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
+Estilo/género: Juego 
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: Navegadores en el ordenador: Google Chrome, MS Edge, Safari...
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 159KB
 
 Fecha : 14/05/2025
 
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
