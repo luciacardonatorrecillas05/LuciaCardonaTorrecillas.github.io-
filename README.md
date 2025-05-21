@@ -1,12 +1,12 @@
-# (Nombre del proyecto)
+# MINI JUEGOS 
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : MINI JUEGOS 
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Lucía Cardona Torredcillas 
 
 Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
