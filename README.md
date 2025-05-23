@@ -29,7 +29,8 @@ https://github.com/luciacardonatorrecillas05/LuciaCardonaTorrecillas.github.io-
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![dibujo](https://github.com/user-attachments/assets/1202b791-69d5-4a14-bdf0-31b9cedbc17e)
+
 
 ## 3. Metodología
 
