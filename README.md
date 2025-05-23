@@ -52,8 +52,8 @@ Etapa 3: Problemas identificados
 El único problema que he encontrado es que en la última parte, en algunas ocasiones la bola roja aparece en otro punto que no es el inicial, pero en los códigos no hay ningún problema aparente por el cual pueda suceder.
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
+![licencia](https://github.com/user-attachments/assets/eeb29bcc-c02b-4d3a-ae02-2fa188093902)
+
 
 Mayo 2025
