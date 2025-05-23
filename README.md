@@ -12,7 +12,7 @@ Resumen : Este proyecto consta de tres mini juegos en los cuales pueden jugar do
 
 Estilo/género: Juego 
 
-Resolución: 600x400px tamaño fijo no adaptable a dispositivos mobiles 
+Resolución: 600x400px tamaño fijo no adaptable a dispositivos mobiles
 
 Probado en: Navegadores en el ordenador: Google Chrome, MS Edge, Safari...
 
