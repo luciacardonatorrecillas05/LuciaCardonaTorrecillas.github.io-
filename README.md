@@ -25,10 +25,8 @@ Medios:
 https://github.com/luciacardonatorrecillas05/LuciaCardonaTorrecillas.github.io-
 
 ## 2. Memoria del proyecto
-### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
-### 2.2. Esquema de navegación
+### 2.1. Esquema de navegación
 ![dibujo](https://github.com/user-attachments/assets/1202b791-69d5-4a14-bdf0-31b9cedbc17e)
 
 
@@ -36,27 +34,22 @@ https://github.com/luciacardonatorrecillas05/LuciaCardonaTorrecillas.github.io-
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante ya que es una forma interactiva y visual de entretener sobre todo al público infantil o a cualquier otro que pueda interesarle. 
 
-Orientado a .. (Público)
+Orientado a un público infatil, siempre y cuando tengan capacidad para mover el ratón y el tegado del ordenador sin dificultad.
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Video
 Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
+Menús y elementos de navegación:
+
+En la primera escena aparece el menú en el cual vemos tres botones en forma de estrellas que nos llevarán a los diferentes niveles.
+En cada nivel hay dos botones uno situado en la esquina inferior derecha que al terminar cada mini juego, nos llevará al menú para poder realizar el resto y otro botón también en la parte derecha central, que quien llegue antes al final del laberinto podrá pulsarlo y saldrán una serie de estrellas, para indicar el final del juego.
 Etapa 3: Problemas identificados
 (que consideras que no funciona correctamente y por qué )
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-## 5 Referencias
-**Artículos y blogs **
-
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
+El único problema que he encontrado es que en la última parte, en algunas ocasiones la bola roja aparece en otro punto que no es el inicial, pero en los códigos no hay ningún problema aparente por el cual pueda suceder.
 
 **Hippani Animator 5.1**
 (imagen de la licencia, copiar y pegar aquí la correcta)
